@@ -1,2 +1,2 @@
-# Mope.cpp
- ModifiedPErceptron C++
+# ModifiedPerceptron C++
+ ModifiedPerceptron C++
