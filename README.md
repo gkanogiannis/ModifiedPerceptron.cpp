@@ -1,0 +1,2 @@
+# Mope.cpp
+ ModifiedPErceptron C++
