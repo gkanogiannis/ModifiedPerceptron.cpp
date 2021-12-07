@@ -1,11 +1,11 @@
 /**
  * @file Evaluator.h
- * @author Anestis Gkanogiannis  <anestis.gk@unb.ca>
+ * @author Anestis Gkanogiannis  <anestis@gkanogiannis.com>
  * @version 1.0 01/01/2012
  *
  * @section LICENSE
  *
- * Copyright (C) <2012>  <Anestis Gkanogiannis> <anestis.gk@unb.ca>
+ * Copyright (C) <2012>  <Anestis Gkanogiannis> <anestis@gkanogiannis.com>
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License as
